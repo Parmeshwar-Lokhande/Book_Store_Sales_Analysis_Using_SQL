@@ -1,19 +1,14 @@
 # 📚 Book-Store-Sales-Analysis-using-SQL
-1. Project Title
-
-Book Store Sales Analysis
-
-2. Brief One-Line Summary
 
 Analyzed book store sales data using SQL to uncover customer behavior, sales trends, and revenue insights.
 
-3. Overview
+1) Overview :-
 
 This project focuses on analyzing a book store’s transactional data using SQL.
 The goal is to extract meaningful business insights such as top-selling books, customer purchase patterns, revenue contribution, and order trends.
 The project demonstrates strong SQL fundamentals including joins, aggregations, subqueries, and filtering techniques commonly used by data analysts.
 
-4. Problem Statement
+2) Problem Statement:-
 
 The book store wants to understand:
 
@@ -27,11 +22,12 @@ Opportunities to improve sales and customer engagement
 
 The challenge is to transform raw relational data into actionable insights using SQL.
 
-5. Dataset
+
+3) Dataset:-
 
 The project uses three CSV datasets:
 
-Books.csv
+1) Books.csv
 
 Book ID
 
@@ -43,7 +39,7 @@ Genre
 
 Price
 
-Customers.csv
+2)Customers.csv
 
 Customer ID
 
@@ -53,7 +49,7 @@ Email
 
 Location
 
-Orders.csv
+3) Orders.csv
 
 Order ID
 
@@ -67,7 +63,7 @@ Quantity
 
 Total Amount
 
-6. Tools and Technologies
+4) Tools and Technologies:-
 
 SQL (MySQL / PostgreSQL compatible)
 
@@ -77,7 +73,7 @@ GitHub for version control
 
 CSV files as data source
 
-7. Method
+5) Method:-
 
 Imported CSV files into SQL tables
 
@@ -99,7 +95,7 @@ Aggregate functions (SUM, COUNT, AVG)
 
 Extracted business insights from query results
 
-8. Key Insights
+6) Key Insights:-
 
 Identified top-selling books and genres
 
@@ -111,7 +107,7 @@ Determined revenue contribution by book and customer
 
 Discovered frequently purchased books
 
-9. Dashboard / Model / Output
+7) Dashboard / Model / Output:-
 
 SQL query outputs displayed as result tables
 
@@ -119,11 +115,11 @@ Insights can be further visualized using Power BI / Tableau (optional)
 
 Query file: SQL PROJECT ON BOOK STORE.sql
 
-10. How to Run This Project
+8) How to Run This Project:-
 
 Clone the repository
 
-git clone https://github.com/your-username/book-store-sql-analysis.git
+git clone https://github.com/Parmeshwar-Lokhande/book-store-sql-analysis.git
 
 
 Create a database in your SQL environment
@@ -137,12 +133,12 @@ SQL PROJECT ON BOOK STORE.sql
 
 Execute queries to view insights
 
-11. Results and Conclusion
+9) Results and Conclusion:-
 
 This project successfully demonstrates how SQL can be used to analyze real-world business data.
 By querying relational datasets, valuable insights were obtained that can help improve sales strategies, inventory planning, and customer targeting.
 
-12. Future Work
+10) Future Work:-
 
 Add time-based sales analysis
 
@@ -152,12 +148,9 @@ Include advanced SQL concepts (CTEs, Window Functions)
 
 Automate data updates
 
-13. Author and Contact
+11)Author and Contact:-
 
-Author: Aniket Lokhande
+Author: Parmeshwar Lokhande
 Role: Aspiring Data Analyst
-GitHub: https://github.com/your-username
-
-LinkedIn: https://www.linkedin.com/in/your-profile
-
-Email: your-email@example.com
+GitHub: https://github.com/Parmeshwar-Lokhande
+Email: parmeshwarlokhande30@gmail.com
