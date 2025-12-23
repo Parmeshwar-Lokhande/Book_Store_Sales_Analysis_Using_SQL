@@ -117,11 +117,6 @@ Query file: SQL PROJECT ON BOOK STORE.sql
 
 8) How to Run This Project:-
 
-Clone the repository
-
-git clone https://github.com/Parmeshwar-Lokhande/book-store-sql-analysis.git
-
-
 Create a database in your SQL environment
 
 Import the CSV files into tables
@@ -129,7 +124,6 @@ Import the CSV files into tables
 Run the SQL script file:
 
 SQL PROJECT ON BOOK STORE.sql
-
 
 Execute queries to view insights
 
